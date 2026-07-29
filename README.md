@@ -27,6 +27,7 @@ projects across the full stack: data → models → LLM apps → agents.
 | [Belgian Train Occupancy EDA](https://github.com/sayashm/Train-Occupancy-Analysis-PySpark) | Distributed EDA on iRail passenger data | PySpark |
 | [Inside Airbnb Gent Dashboard](https://github.com/sayashm/Inside-Airbnb-Gent-Dashboard) | Interactive Airbnb listings explorer | Plotly Dash |
 | [Market Basket Analysis](https://github.com/sayashm/Market-Basket-Analysis) | Frequent pattern mining on grocery data | Apriori, mlxtend |
+| [RAG Textbook Assistant](https://github.com/sayashm/rag-textbook-assistant) | RAG Q&A grounded in a data-mining textbook | LlamaIndex, HuggingFace, PyTorch |
 
 ## Find me
 

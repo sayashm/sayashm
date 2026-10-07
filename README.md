@@ -32,6 +32,7 @@ modeling background.
 | [Inside Airbnb Gent Dashboard](https://github.com/sayashm/Inside-Airbnb-Gent-Dashboard) | Interactive Airbnb listings explorer | Plotly Dash |
 | [Market Basket Analysis](https://github.com/sayashm/Market-Basket-Analysis) | Frequent pattern mining on grocery data | Apriori, mlxtend |
 | [RAG Textbook Assistant](https://github.com/sayashm/rag-textbook-assistant) | RAG Q&A grounded in a data-mining textbook | LlamaIndex, HuggingFace, PyTorch |
+| [Formula 1 Data Pipeline (Databricks)](https://github.com/sayashm/databricks-learning) | Medallion pipeline (bronze → silver → gold) for Formula 1 race data, with standings views | Azure Databricks, PySpark, Delta Lake, Unity Catalog |
 
 ## Find me
 

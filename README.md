@@ -5,9 +5,6 @@ I hold an Advanced Master's in Statistical Data Analysis from Ghent University
 (Sequential Monte Carlo) framework for predictive maintenance and Remaining
 Useful Life estimation on turbofan engine data.
 
-I'm now moving from statistics into **Data Engineering** — pipelines, Spark,
-and cloud data platforms — building on a strong Python/SQL and statistical
-modeling background.
 
 ## What I'm working on
 

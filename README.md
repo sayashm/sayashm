@@ -8,8 +8,6 @@ Useful Life estimation on turbofan engine data.
 
 ## What I'm working on
 
-- 🔧 Currently: *Azure Databricks & Spark for Data Engineers* (hands-on Formula 1 project)
-- 📚 Learning path: SQL & pipelines → Spark/Databricks → cloud data platforms
 - 🎓 Just defended: my Master's thesis on Bayesian digital twins for predictive maintenance ([code →](https://github.com/sayashm/bayesian-digital-twin))
 
 ## Skills
